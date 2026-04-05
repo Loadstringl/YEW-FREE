@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Loadstringl/YEW-FREE-HUB-GOGOGAGA/main/README.md"))() fack
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Loadstringl/YEW-FREE-HUB-GOGOGAGA/main/README.md"))() 
